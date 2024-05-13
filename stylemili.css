@@ -1,0 +1,23 @@
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+#caja-grande{
+    display: flex;
+    flex-direction: row;
+}
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+span{
+    color:red;
+}
+h2{
+    color: red;
+}
